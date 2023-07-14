@@ -23,8 +23,10 @@ def visualize_progress(
         fig: Figure
         ax: Axes
         fig, ax = plt.subplots()
-        ax.plot(aim_dates, aim_pages, 'r-', label='Aim')
-        ax.plot(date_keys_actual, plot_summation_list, 'b-', label='Progress')
+        ax.plot(aim_dates, aim_pages, 'r.', label='Aim')
+        ax.plot(aim_dates, aim_pages, 'r-', alpha=0.5)
+        ax.plot(date_keys_actual, plot_summation_list, 'b.', label='Progress')
+        ax.plot(date_keys_actual, plot_summation_list, 'b-', alpha=0.5)
         ax.set_xlabel('Date')
         ax.set_ylabel('Pages Read')
         ax.set_title('Reading Progress')
