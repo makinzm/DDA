@@ -3,9 +3,13 @@ name = "dda"
 version = "0.1.0"
 description = "Add a short description here"
 authors = [
-    { name = "makinzm", email = "***" }
+    { name = "makinzm", email = "hello@hello.hello" }
 ]
-dependencies = []
+dependencies = [
+    "matplotlib>=3.7.2",
+    "pandas>=2.0.3",
+    "pyyaml>=6.0",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
