@@ -1,5 +1,6 @@
 from typing import Optional
 import datetime
+from pathlib import Path
 
 from dda.yaml.set import load_yaml, update_yaml
 
@@ -72,8 +73,44 @@ def update_aim(default_dict: Optional[dict] = None) -> dict:
                 print()
     return new_dict
 
+def update_progress(path_progress_yaml: str) -> None:
+    today = datetime.date.today()
+    is_new = False
+    if not Path(path_progress_yaml).exists():
+        update_yaml(path_progress_yaml, {})
+        is_new = True
+
+    progress_data = load_yaml(path_progress_yaml)
+    
+    if str(today) not in progress_data:
+        dates = sorted(list(progress_data.keys()))
+        last_date = datetime.datetime.strptime(dates[-1], "%Y-%m-%d").date()
+        if not is_new and abs((today-last_date).days) > 1:
+            print(f"Enjoy reading and Have Passion!!! (the last date is {dates[-1]})")
+            while last_date < today - datetime.timedelta(days=1):
+                last_date += datetime.timedelta(days=1)
+                progress_data[str(last_date)] = progress_data[dates[-1]]
+        pages_read = input("Enter today's reading pages: ")
+        progress_data[str(today)] = int(pages_read)
+    else:
+        current_pages = progress_data[str(today)]
+        choice = input(f"Want to Update Today({today})'s value({current_pages})? [y/n]: ")
+        if choice.lower() == "y":
+            while(True):
+                pages_read = input("Enter the new value: ")
+                try:
+                    progress_data[str(today)] = int(pages_read)
+                    break
+                except ValueError:
+                    print("Please input Positive value")
+    
+    update_yaml(path_progress_yaml, progress_data)
+
 if __name__ == "__main__":
-    edit_path:str = "../tmp_files/main.set_main.yaml"    
-    from subprocess import run
+    # edit_path:str = "../tmp_files/main.set_main.yaml"    
+    # from subprocess import run
     # run(f"rm {edit_path}", shell=True)
-    set_main(edit_path)
+    # set_main(edit_path)
+    edit_path:str = "../tmp_files/main.progress.yaml"   
+    update_progress(edit_path)
+
