@@ -14,9 +14,15 @@ def complete_yaml(file_path: str, default_data: dict) -> dict:
     data: dict
     try:
         data = load_yaml(file_path)
-        for key, value in default_data.items():
-            if key not in data:
-                data[key] = value
+        if type(data) == dict:
+            if set(data.keys()) == set(default_data.keys()):
+                for key, value in default_data.items():
+                    if key not in data.keys():
+                        data[key] = value
+            else:
+                data = default_data
+        else:
+            data = default_data
     except FileNotFoundError:
         data = default_data
     update_yaml(file_path, data)
