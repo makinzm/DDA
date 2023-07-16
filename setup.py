@@ -1,5 +1,13 @@
 from setuptools import setup, find_packages
 
+with open('requirements.lock', 'r') as lockfile:
+    packages = []
+    for line in lockfile:
+        line = line.strip()
+        if line and not line.startswith('#'):
+            package = line.split('==')[0]
+            packages.append(package)
+
 setup(
     name='books',
     version='1.0.0',
