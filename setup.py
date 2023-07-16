@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-with open('requirements.lock', 'r') as lockfile:
+with open('requirements-dev.lock', 'r') as lockfile:
     packages = []
     for line in lockfile:
         line = line.strip()
