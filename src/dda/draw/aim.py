@@ -28,7 +28,7 @@ def draw_aim(start_date: datetime.date, total_pages: int, pages_per_day_goal: in
         for i in range(num_buffers):
             print((i+1)*buffer_days+i, len(pages))
             pages.insert((i+1)*buffer_days+i, pages[(i+1)*buffer_days+i-1]) 
-
+    
     if save_path is not None:
         fig: Figure
         ax: Axes
@@ -37,6 +37,7 @@ def draw_aim(start_date: datetime.date, total_pages: int, pages_per_day_goal: in
         ax.set_xlabel('date')
         ax.set_ylabel('pages')
         ax.set_title('Reading Aim, Goal Date: ' + goal_date.strftime("%m/%d/%Y"))
+        ax.set_ylim(bottom=-1)
         ax.legend()
         plt.xticks(rotation=45)
         plt.tight_layout()
@@ -57,6 +58,9 @@ if __name__ == "__main__":
     draw_aim(datetime.date.today(), 590, 10, buffer_days= 7, save_path = save_file_buffer7)
     save_file_buffer7: str = "../../../tmp_files/aim.draw_aim.buffer.not_splitted.png"
     draw_aim(datetime.date.today(), 78, 11, buffer_days= 5, save_path = save_file_buffer7)
+
+    save_file_concerned: str = "../../../tmp_files/aim.concerned.png"
+    draw_aim(datetime.date.today(), 21, 10, buffer_days= 2, save_path = save_file_concerned)
 
     
     dates: DatetimeIndex

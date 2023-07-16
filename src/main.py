@@ -1,8 +1,10 @@
+import os
 from typing import Optional
 import datetime
 from pathlib import Path
 
 from dda.yaml.set import load_yaml, update_yaml
+from dda.draw.progress import visualize_progress
 
 sd: str = "start_date"
 tp: str = "total_pages"
@@ -106,11 +108,23 @@ def update_progress(path_progress_yaml: str) -> None:
     
     update_yaml(path_progress_yaml, progress_data)
 
+def draw_from_yaml(aim_path: str, progress_path: str, output_dir: str) -> None:
+    aim_dict: dict = load_yaml(aim_path, is_aim=True)
+    progress_dict: dict = load_yaml(progress_path)
+    today_path: dict = os.path.join(output_dir, str(datetime.date.today())+".png")
+    visualize_progress(
+        start_date=aim_dict[sd], 
+        total_pages=aim_dict[tp], 
+        pages_per_day_goal=aim_dict[ppd], 
+        input_data=progress_dict, buffer_days=aim_dict[bd], save_path=today_path
+    )
+
 if __name__ == "__main__":
-    # edit_path:str = "../tmp_files/main.set_main.yaml"    
+    aim_path:str = "../tmp_files/main.set_main.yaml"    
     # from subprocess import run
     # run(f"rm {edit_path}", shell=True)
     # set_main(edit_path)
-    edit_path:str = "../tmp_files/main.progress.yaml"   
-    update_progress(edit_path)
-
+    progress_path:str = "../tmp_files/main.progress.yaml"   
+    # update_progress(edit_path)
+    output_dir:str = "../tmp_files"
+    draw_from_yaml(aim_path, progress_path, output_dir)
