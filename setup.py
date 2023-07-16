@@ -4,7 +4,7 @@ with open('requirements.lock', 'r') as lockfile:
     packages = []
     for line in lockfile:
         line = line.strip()
-        if line and not line.startswith('#'):
+        if line and not line.startswith('#') and not line.startswith('-e'):
             package = line.split('==')[0]
             packages.append(package)
 
