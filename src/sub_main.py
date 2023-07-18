@@ -11,7 +11,7 @@ tp: str = "total_pages"
 ppd: str = "pages_per_date"
 bd: str = "buffer_days"
 
-def set_main(path_aim_yaml: str)-> None:
+def set_aim(path_aim_yaml: str)-> None:
     aim_dict: dict
     try:
         aim_dict = load_yaml(path_aim_yaml, is_aim=True)
@@ -23,13 +23,13 @@ def set_main(path_aim_yaml: str)-> None:
             else:
                 print("Please input (y/n) \n")
         if yn == "y":
-            aim_dict = update_aim(aim_dict)
+            aim_dict = _update_aim(aim_dict)
             update_yaml(path_aim_yaml, aim_dict)
     except FileNotFoundError:
-        aim_dict = update_aim()
+        aim_dict = _update_aim()
         update_yaml(path_aim_yaml, aim_dict)
 
-def communicate_interactive_via_key(dict_set: dict, key: str, value) -> Optional[dict]:
+def _communicate_interactive_via_key(dict_set: dict, key: str, value) -> Optional[dict]:
     if key == sd:
         try:
             value = datetime.date.fromisoformat(value)
@@ -50,13 +50,13 @@ def communicate_interactive_via_key(dict_set: dict, key: str, value) -> Optional
             print("Please positive value like `10`")
             return None
 
-def update_aim(default_dict: Optional[dict] = None) -> dict:
+def _update_aim(default_dict: Optional[dict] = None) -> dict:
     new_dict: dict = dict()
     if default_dict is not None:
         for key, value in default_dict.items():
             while(True):
                 _value = input(f"{key} was {value} : ")
-                _ret = communicate_interactive_via_key(new_dict, key, _value)
+                _ret = _communicate_interactive_via_key(new_dict, key, _value)
                 if type(_ret) == dict:
                     new_dict = _ret
                     print()
@@ -67,7 +67,7 @@ def update_aim(default_dict: Optional[dict] = None) -> dict:
         for key in keys:
             while(True):
                 _value = input(f"{key} : ")
-                _ret = communicate_interactive_via_key(new_dict, key, _value)
+                _ret = _communicate_interactive_via_key(new_dict, key, _value)
                 if type(_ret) == dict:
                     new_dict = _ret
                     print()
@@ -123,7 +123,7 @@ if __name__ == "__main__":
     aim_path:str = "../tmp_files/main.set_main.yaml"    
     # from subprocess import run
     # run(f"rm {edit_path}", shell=True)
-    # set_main(edit_path)
+    # set_aim(edit_path)
     progress_path:str = "../tmp_files/main.progress.yaml"   
     # update_progress(edit_path)
     output_dir:str = "../tmp_files"
