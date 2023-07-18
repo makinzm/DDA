@@ -19,6 +19,12 @@
 - [tease](https://www.oxfordlearnersdictionaries.com/definition/english/tease_1)
 - [under the hood](https://www.oxfordlearnersdictionaries.com/definition/english/hood_1)
 
-(35min)
+- [proprietary](https://www.oxfordlearnersdictionaries.com/definition/english/proprietary?q=proprietary)
 
+- [erratum, errata](https://www.oxfordlearnersdictionaries.com/definition/english/erratum?q=erratum)
+
+
+- [acknowledgement](https://www.oxfordlearnersdictionaries.com/definition/english/acknowledgement)
+- [amalgamation](https://www.oxfordlearnersdictionaries.com/definition/english/amalgamation?q=amalgamation)
+- [indebted](https://www.oxfordlearnersdictionaries.com/definition/english/indebted)
 
