@@ -1,7 +1,7 @@
 import argparse
 import os
 
-from sub_main import set_aim, update_progress, draw_from_yaml
+from dda.sub_main import set_aim, update_progress, draw_from_yaml
 
 def main():
     parser = argparse.ArgumentParser()
