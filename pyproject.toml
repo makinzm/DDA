@@ -28,3 +28,6 @@ dev-dependencies = [
 
 [tool.hatch.metadata]
 allow-direct-references = true
+
+[project.scripts]
+book = "dda.main:main"
