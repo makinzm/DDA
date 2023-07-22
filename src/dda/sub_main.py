@@ -86,14 +86,18 @@ def update_progress(path_progress_yaml: str) -> None:
     
     if str(today) not in progress_data:
         dates = sorted(list(progress_data.keys()))
-        last_date = datetime.datetime.strptime(dates[-1], "%Y-%m-%d").date()
-        if not is_new and abs((today-last_date).days) > 1:
-            print(f"Enjoy reading and Have Passion!!! (the last date is {dates[-1]})")
-            while last_date < today - datetime.timedelta(days=1):
-                last_date += datetime.timedelta(days=1)
-                progress_data[str(last_date)] = progress_data[dates[-1]]
-        pages_read = input("Enter today's reading pages: ")
-        progress_data[str(today)] = int(pages_read)
+        try:
+            last_date = datetime.datetime.strptime(dates[-1], "%Y-%m-%d").date()
+            if not is_new and abs((today-last_date).days) > 1:
+                print(f"Enjoy reading and Have Passion!!! (the last date is {dates[-1]})")
+                while last_date < today - datetime.timedelta(days=1):
+                    last_date += datetime.timedelta(days=1)
+                    progress_data[str(last_date)] = progress_data[dates[-1]]
+            pages_read = input("Enter today's reading pages: ")
+            progress_data[str(today)] = int(pages_read)
+        except IndexError:
+            pages_read = input("Enter today's reading pages: ")
+            progress_data[str(today)] = int(pages_read)
     else:
         current_pages = progress_data[str(today)]
         choice = input(f"Want to Update Today({today})'s value({current_pages})? [y/n]: ")
