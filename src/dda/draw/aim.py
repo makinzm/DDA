@@ -26,7 +26,6 @@ def draw_aim(start_date: datetime.date, total_pages: int, pages_per_day_goal: in
     if buffer_days > 0:
         num_buffers: int = days_to_goal - days_to_goal_without_buffer
         for i in range(num_buffers):
-            print((i+1)*buffer_days+i, len(pages))
             pages.insert((i+1)*buffer_days+i, pages[(i+1)*buffer_days+i-1]) 
     
     if save_path is not None:
