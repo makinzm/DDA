@@ -20,3 +20,15 @@
 - [telemetry](https://www.oxfordlearnersdictionaries.com/definition/english/telemetry?q=telemetry)
 - [mundane](https://www.oxfordlearnersdictionaries.com/definition/english/mundane)
 
+- [concurrent](https://www.oxfordlearnersdictionaries.com/definition/english/concurrent)
+- [succinctly](https://www.oxfordlearnersdictionaries.com/definition/english/succinctly)
+- [fan-out](https://www.oxfordlearnersdictionaries.com/definition/english/fan-out)
+- [throughput](https://www.oxfordlearnersdictionaries.com/definition/english/throughput?q=throughput)
+- [skew](https://www.oxfordlearnersdictionaries.com/definition/english/skew)
+- [intrinsically](https://www.oxfordlearnersdictionaries.com/definition/english/intrinsically?q=intrinsically)
+- [hold up](https://dictionary.cambridge.org/ja/dictionary/english/hold-up)
+- [pragmatic](https://www.oxfordlearnersdictionaries.com/definition/english/pragmatic?q=pragmatic)
+- [stateful v.s. stateless](https://www.cloud-for-all.com/azure/blog/difference-stateful-and-stateless#:~:text=%E3%82%B9%E3%83%86%E3%83%BC%E3%83%88%E3%83%95%E3%83%AB%EF%BC%88stateful%EF%BC%89%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%83%88%EF%BC%88,%E3%81%93%E3%81%A8%E3%80%8D%E3%82%92%E6%84%8F%E5%91%B3%E3%81%97%E3%81%BE%E3%81%99%E3%80%82)
+- [generic](https://www.oxfordlearnersdictionaries.com/definition/english/generic_1)
+- [nevertheless](https://www.oxfordlearnersdictionaries.com/definition/english/nevertheless?q=nevertheless)
+
