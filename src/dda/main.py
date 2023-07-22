@@ -20,7 +20,7 @@ def main():
     print(aim_path, progress_path)
     
     if args.command == "aim":
-        set_main()
+        set_aim(aim_path)
     elif args.command == "progress":
         update_progress(progress_path)
         draw_from_yaml(aim_path, progress_path, path)
