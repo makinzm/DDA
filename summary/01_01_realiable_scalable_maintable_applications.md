@@ -1,0 +1,22 @@
+- [asynchronously](https://www.oxfordlearnersdictionaries.com/definition/english/asynchronously)
+- [crunch](https://www.oxfordlearnersdictionaries.com/definition/english/crunch_2#:~:text=%5Btransitive%5D-,crunch%20something,-(computing))
+- [go over](https://dictionary.cambridge.org/ja/dictionary/english/go-over)
+- [stitched](https://www.oxfordlearnersdictionaries.com/definition/english/stitch_2?q=stitched)
+- [composite](https://www.oxfordlearnersdictionaries.com/definition/english/composite_1)
+- [invalidate](https://www.oxfordlearnersdictionaries.com/definition/english/invalidate?q=invalidate)
+- [degraded](https://www.oxfordlearnersdictionaries.com/definition/english/degrade?q=degraded)
+
+- [swallow](https://www.oxfordlearnersdictionaries.com/definition/english/swallow_1?q=swallow#:~:text=something%20in%20or-,completely%20cover,-them/it%20so)
+- [spec](https://www.oxfordlearnersdictionaries.com/definition/english/spec_1)
+- [diesel](https://www.oxfordlearnersdictionaries.com/definition/english/diesel?q=diesel)
+- patch
+    - [norm](https://www.oxfordlearnersdictionaries.com/definition/english/patch_1?q=patch#:~:text=a%20small%20piece%20of%20code)
+    - [verb](https://www.oxfordlearnersdictionaries.com/definition/english/patch_2)
+- [leap second](https://en.wikipedia.org/wiki/Leap_second)
+- [runaway](https://www.oxfordlearnersdictionaries.com/definition/english/runaway_1)
+- [cascade](https://www.oxfordlearnersdictionaries.com/definition/english/cascade_1?q=cascade)
+- [dormant](https://www.oxfordlearnersdictionaries.com/definition/english/dormant?q=dormant)
+- [configuration](https://www.oxfordlearnersdictionaries.com/definition/english/configuration)
+- [telemetry](https://www.oxfordlearnersdictionaries.com/definition/english/telemetry?q=telemetry)
+- [mundane](https://www.oxfordlearnersdictionaries.com/definition/english/mundane)
+
