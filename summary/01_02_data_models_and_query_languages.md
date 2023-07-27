@@ -1,0 +1,4 @@
+- [layer(verb)](https://www.oxfordlearnersdictionaries.com/definition/english/layer_2)
+- [airline](https://www.oxfordlearnersdictionaries.com/definition/english/airline)
+- [niche](https://www.oxfordlearnersdictionaries.com/definition/english/niche_1)
+- [hype](https://www.oxfordlearnersdictionaries.com/definition/english/hype_1)
