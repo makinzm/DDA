@@ -31,4 +31,8 @@
 - [stateful v.s. stateless](https://www.cloud-for-all.com/azure/blog/difference-stateful-and-stateless#:~:text=%E3%82%B9%E3%83%86%E3%83%BC%E3%83%88%E3%83%95%E3%83%AB%EF%BC%88stateful%EF%BC%89%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%83%88%EF%BC%88,%E3%81%93%E3%81%A8%E3%80%8D%E3%82%92%E6%84%8F%E5%91%B3%E3%81%97%E3%81%BE%E3%81%99%E3%80%82)
 - [generic](https://www.oxfordlearnersdictionaries.com/definition/english/generic_1)
 - [nevertheless](https://www.oxfordlearnersdictionaries.com/definition/english/nevertheless?q=nevertheless)
-
+- [expressive](https://www.oxfordlearnersdictionaries.com/definition/english/expressive)
+- [mired](https://www.oxfordlearnersdictionaries.com/definition/english/mired)
+- [state](https://www.oxfordlearnersdictionaries.com/definition/english/state_2)
+- [tangled](https://www.oxfordlearnersdictionaries.com/definition/english/tangled)
+- [flux](https://www.oxfordlearnersdictionaries.com/definition/english/flux)
