@@ -2,3 +2,15 @@
 - [airline](https://www.oxfordlearnersdictionaries.com/definition/english/airline)
 - [niche](https://www.oxfordlearnersdictionaries.com/definition/english/niche_1)
 - [hype](https://www.oxfordlearnersdictionaries.com/definition/english/hype_1)
+- [overthrow](https://www.oxfordlearnersdictionaries.com/definition/english/overthrow_1)
+- [alongside](https://www.oxfordlearnersdictionaries.com/definition/english/alongside_1)
+- [polyglot](https://www.oxfordlearnersdictionaries.com/definition/english/polyglot_1?q=polyglot)
+- [impedance](https://www.oxfordlearnersdictionaries.com/definition/english/impedance?q=impedance)
+    - L di/dt
+- [boilerplate](https://www.oxfordlearnersdictionaries.com/definition/english/boilerplate)
+- [emulate](https://www.oxfordlearnersdictionaries.com/definition/english/emulate?q=emulate)
+- [vendor](https://www.oxfordlearnersdictionaries.com/definition/english/vendor)
+- [traversal](https://ejje.weblio.jp/content/traversal)
+- [labyrinthine](https://www.oxfordlearnersdictionaries.com/definition/english/labyrinthine?q=labyrinthine)
+- [revert](https://www.oxfordlearnersdictionaries.com/definition/english/revert)
+
