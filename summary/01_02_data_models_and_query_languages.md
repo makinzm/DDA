@@ -13,4 +13,11 @@
 - [traversal](https://ejje.weblio.jp/content/traversal)
 - [labyrinthine](https://www.oxfordlearnersdictionaries.com/definition/english/labyrinthine?q=labyrinthine)
 - [revert](https://www.oxfordlearnersdictionaries.com/definition/english/revert)
+- [heterogeneous](https://www.oxfordlearnersdictionaries.com/definition/english/heterogeneous?q=heterogeneous)
+
+- [declarative](https://www.oxfordlearnersdictionaries.com/definition/english/declarative)
+- [imperative](https://www.oxfordlearnersdictionaries.com/definition/english/imperative_1)
+- [snippet](https://www.oxfordlearnersdictionaries.com/definition/english/snippet?q=snippet)
+- [albeit](https://www.oxfordlearnersdictionaries.com/definition/english/albeit)
+- [outgoing](https://www.oxfordlearnersdictionaries.com/definition/english/outgoing)
 
