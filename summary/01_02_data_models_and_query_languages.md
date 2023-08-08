@@ -20,4 +20,13 @@
 - [snippet](https://www.oxfordlearnersdictionaries.com/definition/english/snippet?q=snippet)
 - [albeit](https://www.oxfordlearnersdictionaries.com/definition/english/albeit)
 - [outgoing](https://www.oxfordlearnersdictionaries.com/definition/english/outgoing)
+- [granularity](https://dictionary.cambridge.org/ja/dictionary/english/granularity)
+- [traverse](https://www.oxfordlearnersdictionaries.com/definition/english/traverse_1)
+- [clumsy](https://www.oxfordlearnersdictionaries.com/definition/english/clumsy)
+- [predicate](https://www.oxfordlearnersdictionaries.com/definition/english/predicate_1)
+- [maelstrom](https://www.oxfordlearnersdictionaries.com/definition/english/maelstrom)
+- [semantic web](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/keywords/17/05.html)
+- [overhype](https://ejje.weblio.jp/content/overhype)
+- [quirk](https://www.oxfordlearnersdictionaries.com/definition/english/quirk_1?q=quirk)
+
 
