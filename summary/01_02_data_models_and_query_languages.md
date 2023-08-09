@@ -29,4 +29,7 @@
 - [overhype](https://ejje.weblio.jp/content/overhype)
 - [quirk](https://www.oxfordlearnersdictionaries.com/definition/english/quirk_1?q=quirk)
 
+- [acronym](https://www.oxfordlearnersdictionaries.com/definition/english/acronym)
+- [ims](https://www.ibm.com/docs/ims/14.1.0?topic=terminology-types-ims-databases)
+- [to date](https://eow.alc.co.jp/search?q=%22to+date%22)
 
