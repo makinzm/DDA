@@ -6,6 +6,8 @@
 - [invalidate](https://www.oxfordlearnersdictionaries.com/definition/english/invalidate?q=invalidate)
 - [degraded](https://www.oxfordlearnersdictionaries.com/definition/english/degrade?q=degraded)
 
+---
+
 - [swallow](https://www.oxfordlearnersdictionaries.com/definition/english/swallow_1?q=swallow#:~:text=something%20in%20or-,completely%20cover,-them/it%20so)
 - [spec](https://www.oxfordlearnersdictionaries.com/definition/english/spec_1)
 - [diesel](https://www.oxfordlearnersdictionaries.com/definition/english/diesel?q=diesel)
@@ -19,6 +21,8 @@
 - [configuration](https://www.oxfordlearnersdictionaries.com/definition/english/configuration)
 - [telemetry](https://www.oxfordlearnersdictionaries.com/definition/english/telemetry?q=telemetry)
 - [mundane](https://www.oxfordlearnersdictionaries.com/definition/english/mundane)
+
+---
 
 - [concurrent](https://www.oxfordlearnersdictionaries.com/definition/english/concurrent)
 - [succinctly](https://www.oxfordlearnersdictionaries.com/definition/english/succinctly)

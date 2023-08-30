@@ -15,6 +15,8 @@
 - [revert](https://www.oxfordlearnersdictionaries.com/definition/english/revert)
 - [heterogeneous](https://www.oxfordlearnersdictionaries.com/definition/english/heterogeneous?q=heterogeneous)
 
+---
+
 - [declarative](https://www.oxfordlearnersdictionaries.com/definition/english/declarative)
 - [imperative](https://www.oxfordlearnersdictionaries.com/definition/english/imperative_1)
 - [snippet](https://www.oxfordlearnersdictionaries.com/definition/english/snippet?q=snippet)
@@ -28,6 +30,8 @@
 - [semantic web](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/keywords/17/05.html)
 - [overhype](https://ejje.weblio.jp/content/overhype)
 - [quirk](https://www.oxfordlearnersdictionaries.com/definition/english/quirk_1?q=quirk)
+
+---
 
 - [acronym](https://www.oxfordlearnersdictionaries.com/definition/english/acronym)
 - [ims](https://www.ibm.com/docs/ims/14.1.0?topic=terminology-types-ims-databases)
