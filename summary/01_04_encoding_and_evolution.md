@@ -17,3 +17,16 @@
 - fairly
 
 - don't bother doing: わざわざ~しない
+
+- [lowest common denominator](https://dictionary.cambridge.org/dictionary/english/lowest-common-denominator)
+
+- [negligible](https://dictionary.cambridge.org/dictionary/english/negligible)
+
+- [thrift](https://dictionary.cambridge.org/dictionary/english/thrift)
+    - [thief](https://dictionary.cambridge.org/dictionary/english/thief)
+
+- [concatenation](https://dictionary.cambridge.org/ja/dictionary/english/concatenation)
+
+- [truncated](https://dictionary.cambridge.org/ja/dictionary/english/truncated)
+
+
