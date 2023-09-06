@@ -29,4 +29,24 @@
 
 - [truncated](https://dictionary.cambridge.org/ja/dictionary/english/truncated)
 
+- [gloss over](https://dictionary.cambridge.org/ja/dictionary/english/gloss-over?q=gloss+over+something)
 
+- [aforementioned](https://dictionary.cambridge.org/ja/dictionary/english/aforementioned)
+
+- [propriety](https://dictionary.cambridge.org/ja/dictionary/english/proprietary)
+
+- [viable](https://dictionary.cambridge.org/ja/dictionary/english/viable)
+
+- [snag](https://dictionary.cambridge.org/ja/dictionary/english/snag)
+
+- [in one go](https://eow.alc.co.jp/search?q=in+one+go)
+
+- [misnomer](https://dictionary.cambridge.org/ja/dictionary/english/misnomer)
+
+- [oath](https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be)
+
+- [sprawling](https://dictionary.cambridge.org/ja/dictionary/english/sprawling)
+
+- [ostensibly](https://dictionary.cambridge.org/ja/dictionary/english/ostensibly)
+
+- https://aws.amazon.com/jp/compare/the-difference-between-soap-rest/
