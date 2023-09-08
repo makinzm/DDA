@@ -55,11 +55,9 @@
 
 - [deduplication](https://e-words.jp/w/%E9%87%8D%E8%A4%87%E6%8E%92%E9%99%A4.html)
 
-- [encapsulate](https://dictionary.cambridge.org/ja/dictionary/english/encapsulate)
+- re: [encapsulate](https://dictionary.cambridge.org/ja/dictionary/english/encapsulate)
 
 - [pitfall](https://dictionary.cambridge.org/ja/dictionary/english/pitfall)
-
-
 
 https://aws.amazon.com/jp/compare/the-difference-between-rpc-and-rest/
 
@@ -82,4 +80,11 @@ REST（Representational State Transfer）とRPC（Remote Procedure Call）は、
 | キャッシュ           | レスポンスに対するキャッシュをサポート | 一般的にキャッシュはサポートされない |
 
 要するに、RESTはHTTPプロトコルを基にし、リソースを操作するためのアーキテクチャスタイルで、主にデータの取得、作成、更新、削除（CRUD操作）に適しています。一方、RPCはリモートで関数やメソッドを呼び出すことを中心にしたアプローチで、より柔軟なリモート操作が可能ですが、プロトコルはHTTP以外も含めて選択できます。どちらを選ぶかは、特定のプロジェクトや要件に依存します。
+
+- [intermediary](https://dictionary.cambridge.org/ja/dictionary/english/intermediary)
+
+- [decouple](https://dictionary.cambridge.org/ja/dictionary/english/decouple)
+
+- re: [concurrency](https://eow.alc.co.jp/search?q=concurrency)
+
 
