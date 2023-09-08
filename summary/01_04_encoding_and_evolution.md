@@ -87,4 +87,6 @@ REST（Representational State Transfer）とRPC（Remote Procedure Call）は、
 
 - re: [concurrency](https://eow.alc.co.jp/search?q=concurrency)
 
+- [hindrance](https://dictionary.cambridge.org/ja/dictionary/english/hindrance)
+
 
