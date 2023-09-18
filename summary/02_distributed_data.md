@@ -9,3 +9,13 @@
 - [consistency](https://dictionary.cambridge.org/ja/dictionary/english/consistency)
 
 - [end up on](https://eow.alc.co.jp/search?q=end+up+on)
+
+- [substantial](https://dictionary.cambridge.org/ja/dictionary/english/substantial)
+
+- [consistent](https://dictionary.cambridge.org/ja/dictionary/english/consistent)
+
+- [arcane](https://dictionary.cambridge.org/ja/dictionary/english/arcane)
+
+- [bounce](https://dictionary.cambridge.org/ja/dictionary/english/bounce)
+
+
