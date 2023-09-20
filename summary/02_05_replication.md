@@ -14,4 +14,15 @@
 
 - [quorum](https://dictionary.cambridge.org/ja/dictionary/english/quorum)
 
+- [sloppy](https://www.oxfordlearnersdictionaries.com/definition/english/sloppy?q=sloppy)
+
+- [on behalf of](https://eow.alc.co.jp/search?q=on+behalf+of)
+
+- [internal](https://ejje.weblio.jp/content/internal)
+    - there are a noun's meaning. 
+
+- [oblivious](https://dictionary.cambridge.org/ja/dictionary/english/oblivious)
+
+- [supersede](https://dictionary.cambridge.org/ja/dictionary/english/supersede)
+
 
