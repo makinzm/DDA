@@ -13,3 +13,6 @@
 - [knock-on](https://dictionary.cambridge.org/dictionary/english/knock-on)
 
 - [boon](https://dictionary.cambridge.org/dictionary/english/boon)
+
+- again
+    - [ostensibly](https://dictionary.cambridge.org/ja/dictionary/english/ostensibly)
