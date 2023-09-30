@@ -5,3 +5,7 @@
 - [antithesis](https://dictionary.cambridge.org/ja/dictionary/english/antithesis)
 
 - [acronym](https://dictionary.cambridge.org/dictionary/english/acronym)
+
+- [ssd](https://securis.com/news/what-is-a-hard-drive/)
+    - it is different from ram and rom.
+    - hdd uses magnetic power.
