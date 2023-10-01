@@ -16,3 +16,10 @@
 
 - again
     - [ostensibly](https://dictionary.cambridge.org/ja/dictionary/english/ostensibly)
+
+- e.g. = exempli gratia
+
+- [commutative](https://dictionary.cambridge.org/dictionary/english/commutative)
+
+- [esoteric](https://dictionary.cambridge.org/dictionary/english/esoteric?q=esoteric+)
+
