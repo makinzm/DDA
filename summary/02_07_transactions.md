@@ -23,3 +23,5 @@
 
 - [esoteric](https://dictionary.cambridge.org/dictionary/english/esoteric?q=esoteric+)
 
+- [tentative](https://dictionary.cambridge.org/dictionary/english/tentative)
+
