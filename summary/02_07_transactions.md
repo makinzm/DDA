@@ -31,3 +31,8 @@
 
 - [archaic](https://dictionary.cambridge.org/dictionary/english/archaic)
 
+- [bleak](https://dictionary.cambridge.org/dictionary/english/bleak)
+
+- [tripwire](https://atmarkit.itmedia.co.jp/aig/06network/tripwire.html)
+
+- re: [granularity](https://dictionary.cambridge.org/ja/dictionary/english/granularity)
