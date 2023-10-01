@@ -25,3 +25,9 @@
 
 - [tentative](https://dictionary.cambridge.org/dictionary/english/tentative)
 
+- re: [encapsulate](https://dictionary.cambridge.org/ja/dictionary/english/encapsulate)
+
+- re :: [encompass](https://www.oxfordlearnersdictionaries.com/definition/english/encompass?q=encompass)
+
+- [archaic](https://dictionary.cambridge.org/dictionary/english/archaic)
+
