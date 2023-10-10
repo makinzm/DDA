@@ -18,4 +18,11 @@
 
 - [fickle](https://dictionary.cambridge.org/dictionary/english/fickle)
 
+- [outlier](https://dictionary.cambridge.org/dictionary/english/outlier)
+
+- [succession](https://dictionary.cambridge.org/dictionary/english/succession)
+
+- [tie-breaker](https://dictionary.cambridge.org/dictionary/english/tie-breaker)
+
+- [resolution](https://www.google.com/search?q=resolution+meanin)
 

@@ -24,3 +24,5 @@ In addition to this, I created `book` command. I describe how to use this.
 1. `book progress`: You can manage 1 date progress.
     - This program creates a burn-down chart automatically.
     - For instance, `./resources/2023-07-22.png`
+
+## However, I detected this command takes a lot of time to start so I have to rethink.
